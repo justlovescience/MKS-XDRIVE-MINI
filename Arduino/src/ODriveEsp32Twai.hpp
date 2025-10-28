@@ -3,8 +3,8 @@
 #include <ESP32-TWAI-CAN.hpp>   // handmade0octopus driver
 #include "ODriveCAN.h"          // provides CREATE_CAN_INTF_WRAPPER + ODriveCanIntfWrapper
 
-// Your sketch must implement this to hand frames to ODriveCAN instances
-// (usually: odrv0.onReceive(id, len, data);)
+//crappy ai code, use with skepticism.
+
 extern void onCanFrame(uint32_t id, uint8_t len, const uint8_t* data);
 
 // --- Required by ODriveCAN.h ---
