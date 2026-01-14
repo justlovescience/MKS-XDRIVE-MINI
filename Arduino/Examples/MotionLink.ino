@@ -1,5 +1,5 @@
 /*
- * Torque to Position Control Test
+ *  One way motion  control test
  * 
  * Test setup:
  * - Motor 0: Torque control mode with zero torque (move by hand)
