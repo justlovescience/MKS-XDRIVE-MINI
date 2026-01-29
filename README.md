@@ -1,6 +1,7 @@
 Here you can find files for MKS XDRIVE MINI FOC driver. I found this driver after I decided to build wheeled quadruper robot, and cos I need 16 drivers for it price is really matters. I did not find proper guides or instructions for it, so I hope this repo will be helpful. I don't have any affilation with manufacturer.
 
 Link for youtube instruction:
+https://youtu.be/yRx7dsJmNvU?si=e_iXddEL_CQ9xSlw
 
 Instruction for windows:
 
